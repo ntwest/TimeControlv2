@@ -1,0 +1,5 @@
+*.lnk
+*.suo
+*.userprefs
+bin
+obj
